@@ -7,3 +7,5 @@
 - 😄 Pronouns: She/Her
 
 ![Sonali's github stats](https://github-readme-stats.vercel.app/api?username=shonali2600)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonali2600)](https://github.com/shonali2600/github-readme-stats)
